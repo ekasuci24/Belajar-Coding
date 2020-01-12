@@ -1,0 +1,21 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    background-color: tomato;
+
+}
+
+div{
+    background-color: turquoise;
+}
+#row{
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+.column{
+    width: 150px;
+    height: 150px;
+    background-color: yellowgreen;
+    margin-right: 14px;
+}
